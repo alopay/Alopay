@@ -4,18 +4,18 @@
   <img alt="Typing" src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;ML+Engineer;Data+Analytics+Specialist;&font=Fira+Code&size=21&color=68C3D4&center=true&vCenter=true" />
 </h3>
 
-![](https://komarev.com/ghpvc/?username=officialalakenes&style=flat-square)
+![](https://komarev.com/ghpvc/?username=alopay&style=flat-square)
 
 ---
 
 ### 🔭 About Me
-I am **Alabi Kayode Omoniyi**, a **Data Scientist, Machine Learning Engineer, and Data Analytics specialist** with 2+ years of professional experience designing, building, and deploying machine learning and AI solutions. My expertise spans **predictive modeling, natural language processing, computer vision, and advanced data analytics**, helping organizations make **data-driven decisions**.  
+I am **Alabi Kayode Omoniyi**, a **Data Scientist, Machine Learning Engineer, and Data Analytics specialist** with 2+ years of professional experience designing, building, and deploying machine learning and AI solutions. My work spans **predictive modeling, natural language processing, computer vision, and advanced data analytics**, enabling organizations to make **data-driven decisions**.  
 
-I have hands-on experience with **Python, SQL, TensorFlow, PyTorch**, and popular data analysis libraries such as **Pandas, NumPy, and Scikit-learn**. I specialize in turning raw, complex datasets into actionable insights, building **scalable ML pipelines**, and delivering solutions that solve real-world business problems.  
+I have hands-on experience with **Python, SQL, TensorFlow, PyTorch**, and popular data analysis libraries like **Pandas, NumPy, and Scikit-learn**. I specialize in turning complex datasets into actionable insights, building **scalable ML pipelines**, and delivering solutions that solve real-world business problems.  
 
-Throughout my career, I have collaborated with cross-functional teams to implement **AI-driven solutions, optimize processes, and automate workflows**, demonstrating both technical proficiency and strategic thinking. Key projects include predictive financial modeling, NLP pipelines for document classification, and real-time analytics platforms.  
+I have collaborated with cross-functional teams to implement **AI-driven solutions, optimize processes, and automate workflows**, demonstrating both technical proficiency and strategic thinking. Key projects include predictive financial modeling, NLP pipelines for document classification, and real-time analytics platforms.  
 
-I am deeply committed to **continuous learning, exploring emerging AI technologies, and contributing to open-source projects**. I thrive in collaborative, global environments and aim to leverage my skills to drive **innovation in AI and data science** worldwide.  
+I am deeply committed to **continuous learning, exploring emerging AI technologies, and contributing to open-source projects**. I thrive in collaborative, global environments and aim to leverage my skills to drive **innovation in AI and data science worldwide**.  
 
 💡 **Fun Facts:**  
 - I enjoy writing about AI, data science, and emerging tech trends  
@@ -32,6 +32,8 @@ I am deeply committed to **continuous learning, exploring emerging AI technologi
 <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Matplotlib-F97600?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" /></a>
 
 ---
 
@@ -41,3 +43,18 @@ I am deeply committed to **continuous learning, exploring emerging AI technologi
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alopay&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=false)
 
+---
+
+### 🔭 Current Focus
+- Deep Learning for NLP and Computer Vision  
+- Predictive Modeling and Time Series Analysis  
+- Data Visualization and Analytics  
+- Contributing to Open-Source ML/AI projects  
+- Preparing for global collaboration and innovation in AI  
+
+---
+
+### 🌐 Let’s Connect
+- LinkedIn: [Alabi Kayode Omoniyi](https://www.linkedin.com/in/alopay)  
+- GitHub: [alopay](https://github.com/alopay)  
+- Email: alabi.kayode@example.com
