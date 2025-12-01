@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Segun Oladele
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alabi Kayode Omoniyi
 
 <h3 align="center">
   <img alt="Typing" src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;ML+Engineer;Data+Analytics+Specialist;&font=Fira+Code&size=21&color=68C3D4&center=true&vCenter=true" />
@@ -9,16 +9,16 @@
 ---
 
 ### 🔭 About Me
-I am a **Data Scientist and Machine Learning Engineer** with 2+ years of professional experience in designing, building, and deploying **machine learning and AI solutions** across diverse industries. My work spans **predictive modeling, natural language processing, computer vision, and data analytics**, enabling organizations to make data-driven decisions.  
+I am **Alabi Kayode Omoniyi**, a **Data Scientist, Machine Learning Engineer, and Data Analytics specialist** with 2+ years of professional experience designing, building, and deploying machine learning and AI solutions. My expertise spans **predictive modeling, natural language processing, computer vision, and advanced data analytics**, helping organizations make **data-driven decisions**.  
 
-I have a strong foundation in **Python, SQL, and deep learning frameworks** such as TensorFlow and PyTorch, as well as expertise in **data visualization and feature engineering**. I am passionate about turning complex datasets into actionable insights and building scalable ML pipelines that deliver tangible business impact.  
+I have hands-on experience with **Python, SQL, TensorFlow, PyTorch**, and popular data analysis libraries such as **Pandas, NumPy, and Scikit-learn**. I specialize in turning raw, complex datasets into actionable insights, building **scalable ML pipelines**, and delivering solutions that solve real-world business problems.  
 
-I have collaborated with cross-functional teams to deliver **AI-driven solutions**, optimized processes, and automated workflows, demonstrating both technical proficiency and strategic thinking. My projects include developing predictive models for financial analysis, NLP pipelines for document classification, and end-to-end ML systems for real-time analytics.  
+Throughout my career, I have collaborated with cross-functional teams to implement **AI-driven solutions, optimize processes, and automate workflows**, demonstrating both technical proficiency and strategic thinking. Key projects include predictive financial modeling, NLP pipelines for document classification, and real-time analytics platforms.  
 
-I am **committed to continuous learning**, exploring emerging AI technologies, and contributing to **open-source projects**. Beyond technical skills, I value **problem-solving, innovation, and global collaboration**, making me well-positioned to work in international tech environments and contribute to cutting-edge AI initiatives.  
+I am deeply committed to **continuous learning, exploring emerging AI technologies, and contributing to open-source projects**. I thrive in collaborative, global environments and aim to leverage my skills to drive **innovation in AI and data science** worldwide.  
 
 💡 **Fun Facts:**  
-- I enjoy writing about AI, data science, and technology trends  
+- I enjoy writing about AI, data science, and emerging tech trends  
 - I love solving complex problems and experimenting with new algorithms  
 - Outside of work, I explore education, travel, and creative writing  
 
