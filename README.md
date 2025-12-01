@@ -1,53 +1,48 @@
-﻿# This is my official profile
-## It's temporary
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Segun Oladele
 
-<h3 align="center"><a href="">
-   <img alt="Alabi+Kayode+Omoniyi" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Alabi+Kayode+Omoniyi;Software+Engineer+intern+and+Developer;&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+<h3 align="center">
+  <img alt="Typing" src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;ML+Engineer;Data+Analytics+Specialist;&font=Fira+Code&size=21&color=68C3D4&center=true&vCenter=true" />
 </h3>
 
-![](https://komarev.com/ghpvc/?username=officialalakenes)
-<a href="#" width="20%">
-___
+![](https://komarev.com/ghpvc/?username=officialalakenes&style=flat-square)
 
- 
-___
+---
 
+### 🔭 About Me
+I am a **Data Scientist and Machine Learning Engineer** with 2+ years of professional experience in designing, building, and deploying **machine learning and AI solutions** across diverse industries. My work spans **predictive modeling, natural language processing, computer vision, and data analytics**, enabling organizations to make data-driven decisions.  
 
+I have a strong foundation in **Python, SQL, and deep learning frameworks** such as TensorFlow and PyTorch, as well as expertise in **data visualization and feature engineering**. I am passionate about turning complex datasets into actionable insights and building scalable ML pipelines that deliver tangible business impact.  
 
-### 🔭 I’m currently learning:
-- Python
-- Kali linus
+I have collaborated with cross-functional teams to deliver **AI-driven solutions**, optimized processes, and automated workflows, demonstrating both technical proficiency and strategic thinking. My projects include developing predictive models for financial analysis, NLP pipelines for document classification, and end-to-end ML systems for real-time analytics.  
 
-___
+I am **committed to continuous learning**, exploring emerging AI technologies, and contributing to **open-source projects**. Beyond technical skills, I value **problem-solving, innovation, and global collaboration**, making me well-positioned to work in international tech environments and contribute to cutting-edge AI initiatives.  
 
-### Core Area of Specialization:
-- Cyber Security
-- Web Penetration Testing
-<!-- ### 👯 I’m looking for potential  -->
+💡 **Fun Facts:**  
+- I enjoy writing about AI, data science, and technology trends  
+- I love solving complex problems and experimenting with new algorithms  
+- Outside of work, I explore education, travel, and creative writing  
 
+---
 
-#### ⚡ Fun facts: 
-- I fantasize writing a crime and mystery book 😄
-- I write poems for fun, exploration and expression
-- You love School, I love education and traveling
+### 🛠️ Toolbox & Skills
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 
-🔭 Toolbox and IDES
+---
 
-<a href="" ><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
-
-
+### 📈 GitHub Stats
 
 <details>
-   <summary> 📈 Contribution Graph </summary>
+   <summary> Contribution Graph </summary>
    <br/>
-   <img alt="Hud0shnik's Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=alopay&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
+   <img alt="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=officialalakenes&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
 </details>
-___
 
-
-<a href="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopay&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
+<a href="#">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialalakenes&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
 </a>
-
