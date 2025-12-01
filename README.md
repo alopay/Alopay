@@ -37,12 +37,7 @@ I am deeply committed to **continuous learning, exploring emerging AI technologi
 
 ### 📈 GitHub Stats
 
-<details>
-   <summary> Contribution Graph </summary>
-   <br/>
-   <img alt="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=officialalakenes&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
-</details>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alopay&theme=tokyonight&hide_border=false)
 
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialalakenes&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
-</a>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=alopay&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=false)
+
