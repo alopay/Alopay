@@ -19,7 +19,7 @@ I am deeply committed to **continuous learning, exploring emerging AI technologi
 
 💡 **Fun Facts:**  
 - I enjoy writing about AI, data science, and emerging tech trends  
-- I love solving complex problems and experimenting with new algorithms  
+- I love solving complex problem and experimenting with new algorithms  
 - Outside of work, I explore education, travel, and creative writing  
 
 ---
