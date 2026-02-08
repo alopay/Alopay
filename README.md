@@ -24,7 +24,7 @@ I am deeply committed to **continuous learning, exploring emerging AI technologi
 
 ---
 
-### 🛠️ Toolbox & Skills
+### 🛠️ Toolbox & Skill
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
