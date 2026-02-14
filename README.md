@@ -9,7 +9,7 @@
 ---
 
 ### 🔭 About Me
-I am **Alabi Kayode Omoniyi**, a **Data Scientist, Machine Learning Engineer, and Data Analytics specialist** with 2+ years of professional experience designing, building, and deploying machine learning and AI solutions. My work spans **predictive modeling, natural language processing, computer vision, and advanced data analytics**, enabling organizations to make **data-driven decisions**.  
+I am **Alabi Kayode Omoniyi**, a **Data Scientist, Machine Learning Engineer, and Data Analytics specialist** with 2+ years of professional experience designing, building, and deploying machine learning and AI solutions. My work spans **predictive modeling, natural language processing, computer vision, and advanced data analytics**, enabling organizations to make **data driven decisions**.  
 
 I have hands-on experience with **Python, SQL, TensorFlow, PyTorch**, and popular data analysis libraries like **Pandas, NumPy, and Scikit-learn**. I specialize in turning complex datasets into actionable insights, building **scalable ML pipelines**, and delivering solutions that solve real-world business problems.  
 
